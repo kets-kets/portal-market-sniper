@@ -1,0 +1,39 @@
+{
+  "Jolly Chimp": {
+    "collection_id": "7a44c400-e762-4385-83a0-a146ab225dee",
+    "short_name": "jollychimp",
+    "models": [
+      "Chimpool",
+      "Golden Monkey",
+      "Liberation",
+      "Tired Primate",
+      "Cherub",
+      "Count Macaqula",
+      "La Baboon",
+      "Olympia",
+      "Bank Robber",
+      "Chimp Imp",
+      "Gravity Bangs",
+      "Jason",
+      "Robo Kong",
+      "Silverback",
+      "Grayscale"
+    ]
+  },
+    "Stellar Rocket": {
+    "collection_id": "94acaf8c-de56-401f-b096-1c9304016284",
+    "short_name": "stellarrocket",
+    "models": [
+      "Bitcoin",
+      "Mission Uranus",
+      "To The Moon",
+      "Black Wing",
+      "Space Veggie",
+      "Telegram",
+      "Normandy",
+      "Space Bot",
+      "Nostromo",
+      "Mega Death"
+    ]
+  }
+}

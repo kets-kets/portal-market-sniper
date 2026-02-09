@@ -1,0 +1,17 @@
+# Core dependencies
+aiohttp>=3.9.0
+aportalsmp>=0.1.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+structlog>=23.0.0
+
+# Utilities
+rich>=13.0.0
+python-dotenv>=1.0.0
+
+# Crypto/Telegram related
+tgcrypto>=1.2.0
+rich
+
+# Browser automation (для перехвата API)
+playwright>=1.40.0
